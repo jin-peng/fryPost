@@ -1,1 +1,1 @@
-$fry$sogroupproben.top$fr
+$fry$sogroupproben.top$fry$
