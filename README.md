@@ -1,1 +1,1 @@
-$fry$sogroupproben.top$fry$
+new pods test
