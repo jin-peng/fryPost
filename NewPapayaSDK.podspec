@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'NewPapayaSDK'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Internal SDK for NewPapayaGetServers.'
   s.description      = 'Private SDK that provides NewPapayaGetServers for internal use.'
   s.homepage         = 'https://github.com/jin-peng'
